@@ -6,7 +6,7 @@ title: Im.IT
 description: |
   Soluções em Técnologia.
 owner: Im.IT Solutions # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: # if migrating another site, the year of your first publish
 email: contato@imit.com.br
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.imit.com.br" # the base hostname & protocol for your site
